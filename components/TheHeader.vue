@@ -94,7 +94,8 @@ watch(isMobileMenuOpen, (val) => {
         </div>
       </div>
 
-      <div class="w-full mobile-nav-screen" :class="{ 'hidden': !isMobileMenuOpen }" @click="isMobileMenuOpen = false">
+      <div class="w-full mobile-nav-screen overflow-y-auto" :class="{ 'hidden': !isMobileMenuOpen }"
+        @click="isMobileMenuOpen = false">
         <nav class="mb-6">
           <ul>
             <li v-for="item of menuItems" :key="item.label" class="block border-b border-gray/40">
