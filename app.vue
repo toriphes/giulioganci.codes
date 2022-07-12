@@ -9,17 +9,17 @@
       content="developer, messina, sicilia, italia, javascript, web, mobile, php, laravel, giulio, ganci" />
     <Meta name="viewport" content="width=device-width, initial-scale=1" />
     <Meta name="theme-color" content="#00796B" />
-    <Meta name="og:locale" content="en_US" />
-    <Meta name="og:type" content="website" />
-    <Meta name="og:title" content="Giulio Ganci Codes" />
-    <Meta name="og:description" content="Passionate Fullstack Developer" />
-    <Meta name="og:url" content="https://giulioganci.codes" />
-    <Meta name="og:site_name" content="Giulio Ganci Codes" />
-    <Meta name="og:image" content="/share-image.png" />
-    <Meta name="og:image:secure_url" content="/share-image.png" />
-    <Meta name="og:width" content="600" />
-    <Meta name="og:height" content="600" />
-    <Meta name="og:type" content="image/png" />
+    <Meta property="og:locale" content="en_US" />
+    <Meta property="og:type" content="website" />
+    <Meta property="og:title" content="Giulio Ganci Codes" />
+    <Meta property="og:description" content="Passionate Fullstack Developer" />
+    <Meta property="og:url" content="https://giulioganci.codes" />
+    <Meta property="og:site_name" content="Giulio Ganci Codes" />
+    <Meta property="og:image" content="/share-image.png" />
+    <Meta property="og:image:secure_url" content="/share-image.png" />
+    <Meta property="og:width" content="600" />
+    <Meta property="og:height" content="600" />
+    <Meta property="og:type" content="image/png" />
 
     <Meta name="twitter:card" content="summary" />
     <Meta name="twitter:title" content="Giulio Ganci Codes" />
