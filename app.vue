@@ -5,14 +5,34 @@
     <Title>Giulio Ganci Codes</Title>
 
     <Meta name="description" content="Passionate Fullstack Developer" />
-    <Meta name="keywords" content="developer, messina, sicilia, italia, javascript, web, mobile, php, laravel" />
+    <Meta name="keywords"
+      content="developer, messina, sicilia, italia, javascript, web, mobile, php, laravel, giulio, ganci" />
     <Meta name="viewport" content="width=device-width, initial-scale=1" />
     <Meta name="theme-color" content="#00796B" />
+    <Meta name="og:locale" content="en_US" />
+    <Meta name="og:type" content="website" />
+    <Meta name="og:title" content="Giulio Ganci Codes" />
+    <Meta name="og:description" content="Passionate Fullstack Developer" />
+    <Meta name="og:url" content="https://giulioganci.codes" />
+    <Meta name="og:site_name" content="Giulio Ganci Codes" />
+    <Meta name="og:image" content="/share-image.png" />
+    <Meta name="og:image:secure_url" content="/share-image.png" />
+    <Meta name="og:width" content="600" />
+    <Meta name="og:height" content="600" />
+    <Meta name="og:type" content="image/png" />
+
+    <Meta name="twitter:card" content="summary" />
+    <Meta name="twitter:title" content="Giulio Ganci Codes" />
+    <Meta name="twitter:description" content="Passionate Fullstack Developer" />
+    <Meta name="twitter:image" content="/share-image.png" />
+    <Meta name="twitter:site" content="@toriphes" />
+    <Meta name="twitter:url" content="https://giulioganci.codes" />
 
     <Link rel="icon" href="/favicon.ico" sizes="any" />
     <Link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <Link rel="apple-touch-icon" href="/apple-icon-180x180.png" />
     <Link rel="manifest" href="/manifest.json" />
+    <Link rel="canonical" href="https://giulioganci.codes" />
 
     <Link rel="preconnect" href="https://fonts.googleapis.com" />
     <Link rel="preconnect" href="https://fonts.gstatic.com" />
