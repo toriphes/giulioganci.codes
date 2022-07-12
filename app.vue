@@ -17,9 +17,9 @@
     <Meta property="og:site_name" content="Giulio Ganci Codes" />
     <Meta property="og:image" content="/share-image.png" />
     <Meta property="og:image:secure_url" content="/share-image.png" />
-    <Meta property="og:width" content="600" />
-    <Meta property="og:height" content="600" />
-    <Meta property="og:type" content="image/png" />
+    <Meta property="og:image:width" content="600" />
+    <Meta property="og:image:height" content="600" />
+    <Meta property="og:image:type" content="image/png" />
 
     <Meta name="twitter:card" content="summary" />
     <Meta name="twitter:title" content="Giulio Ganci Codes" />
