@@ -1,0 +1,170 @@
+{
+  "body": [
+    {
+      "name": "HTML/CSS",
+      "value": 98,
+      "type": "Frontend"
+    },
+    {
+      "name": "Javascript",
+      "value": 90,
+      "type": "Frontend"
+    },
+    {
+      "name": "Typescript",
+      "value": 80,
+      "type": "Frontend"
+    },
+    {
+      "name": "VueJS",
+      "value": 90,
+      "type": "Frontend"
+    },
+    {
+      "name": "Angular",
+      "value": 72,
+      "type": "Frontend"
+    },
+    {
+      "name": "React",
+      "value": 68,
+      "type": "Frontend"
+    },
+    {
+      "name": "React Native",
+      "value": 60,
+      "type": "Frontend"
+    },
+    {
+      "name": "Electron",
+      "value": 70,
+      "type": "Frontend"
+    },
+    {
+      "name": "NuxtJS",
+      "value": 88,
+      "type": "Frontend"
+    },
+    {
+      "name": "Ionic",
+      "value": 80,
+      "type": "Frontend"
+    },
+    {
+      "name": "Solid JS",
+      "value": 20,
+      "type": "Frontend"
+    },
+    {
+      "name": "Flutter",
+      "value": 68,
+      "type": "Frontend"
+    },
+    {
+      "name": "Tailwind CSS",
+      "value": 88,
+      "type": "Frontend"
+    },
+    {
+      "name": "Bootstrap CSS",
+      "value": 88,
+      "type": "Frontend"
+    },
+    {
+      "name": "Bulma CSS",
+      "value": 85,
+      "type": "Frontend"
+    },
+
+    {
+      "name": "PHP",
+      "value": 92,
+      "type": "Backend"
+    },
+    {
+      "name": "NodeJS",
+      "value": 90,
+      "type": "Backend"
+    },
+    {
+      "name": "NestJS",
+      "value": 88,
+      "type": "Backend"
+    },
+    {
+      "name": "Express",
+      "value": 66,
+      "type": "Backend"
+    },
+    {
+      "name": "Fastify",
+      "value": 50,
+      "type": "Backend"
+    },
+    {
+      "name": "AdonisJS",
+      "value": 66,
+      "type": "Backend"
+    },
+    {
+      "name": "Yii",
+      "value": 90,
+      "type": "Backend"
+    },
+    {
+      "name": "Laravel",
+      "value": 85,
+      "type": "Backend"
+    },
+    {
+      "name": "GraphQL",
+      "value": 90,
+      "type": "Technical"
+    },
+    {
+      "name": "GIT",
+      "value": 90,
+      "type": "Technical"
+    },
+    {
+      "name": "Webpack",
+      "value": 80,
+      "type": "Technical"
+    },
+    {
+      "name": "Rollup",
+      "value": 72,
+      "type": "Technical"
+    },
+    {
+      "name": "Parcel",
+      "value": 66,
+      "type": "Technical"
+    },
+    {
+      "name": "Composer",
+      "value": 90,
+      "type": "Technical"
+    },
+    {
+      "name": "NPM",
+      "value": 90,
+      "type": "Technical"
+    },
+    {
+      "name": "Wordpress",
+      "value": 90,
+      "type": "Technical"
+    },
+    {
+      "name": "Linux",
+      "value": 96,
+      "type": "Technical"
+    },
+    {
+      "name": "Gulp / Grunt",
+      "value": 82,
+      "type": "Technical"
+    }
+  ]
+}

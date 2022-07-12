@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth selection:bg-primary/80 selection:text-white
+  }
+
+  body {
+    @apply text-black bg-white dark:bg-dark dark:text-white/80 transition
+  }
+
+  button {
+    @apply focus-visible:outline-dashed outline-primary
+  }
+
+  a {
+    @apply text-primary transition duration-300 focus-visible:outline-dashed outline-primary
+  }
+  
+}

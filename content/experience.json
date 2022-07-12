@@ -1,0 +1,98 @@
+{
+  "body": [
+    {
+      "name": "IDS & UNITELM S.R.L.",
+      "position": "Tech Leader",
+      "startDate": "2020-12-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Responsible for the technology stacks of new projects. I have developed REST/GraphQL Backends, SPAs and a javascript library to view and edit CAD files on the browser using WebGL.<br><br>I have developed several plugins and themes for the wordpress ecosystem.",
+      "url": "https://www.linkedin.com/company/idsunitelm/",
+      "location": "Messina, Italy",
+      "stack": [
+        "javascript",
+        "typescript",
+        "nodejs",
+        "webpack",
+        "vitejs",
+        "graphql",
+        "mongodb",
+        "capacitorjs",
+        "ionic",
+        "vuejs",
+        "angular",
+        "react",
+        "tailwind",
+        "nestjs",
+        "laravel",
+        "wordpress"
+      ]
+    },
+    {
+      "name": "Seed Srl",
+      "position": "Fullstack Developer",
+      "startDate": "2016-06-30",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "I have developed a push notification backend application to collect and segment mobile devices.<br><br>I was responsible for the design and development of apps for iOS and android.",
+      "url": "https://www.linkedin.com/company/seed-srl---digital-manufacturing/",
+      "location": "Messina, Italy",
+      "stack": ["javascript", "typescript", "nodejs", "webpack", "graphql", "cordova", "ionic", "vuejs", "angular", "yii", "wordpress"]
+    },
+    {
+      "name": "3Keys.it",
+      "position": "PHP Developer",
+      "startDate": "2015-08-31",
+      "endDate": "2016-02-28",
+      "highlights": [],
+      "summary": "I have developed web applications in the area of food, travel and art based on Yii framework.",
+      "url": "https://www.linkedin.com/company/3keys-it/",
+      "location": "Catania, Italy",
+      "stack": ["yii", "mysql", "wordpress", "php", "javascript", "bootstrap", "appcelerator"]
+    },
+    {
+      "name": "Cosvifor srl",
+      "position": "Fullstack Developer",
+      "startDate": "2008-11-30",
+      "endDate": "2015-02-28",
+      "highlights": [],
+      "summary": "Team leader and designer of backend applications. I developed software tools like CRM and CMS for the corporate infrastructure.",
+      "url": "https://www.linkedin.com/company/cosvifor-srl/",
+      "location": "Turin, Italy",
+      "stack": ["yii", "mysql", "wordpress", "php", "javascript", "bootstrap", "appcelerator"]
+    },
+    {
+      "name": "IS-LM s.r.l.",
+      "position": "Fullstack Developer",
+      "startDate": "2011-05-31",
+      "endDate": "2012-04-30",
+      "highlights": [],
+      "summary": "I developed web applications in the field of job offer and population census for a European Union project.<br><br>This experience gave me the opportunity to travel abroad for the presentation of my work",
+      "url": "https://www.linkedin.com/company/is-lm/",
+      "location": "Turin, Italy",
+      "stack": ["mysql", "yii", "php", "javascript"]
+    },
+    {
+      "name": "zibi",
+      "position": "Wordpress Developer",
+      "startDate": "2011-12-31",
+      "endDate": "2011-12-31",
+      "highlights": [],
+      "summary": "Developing websites, plugins and themes based on wordpress.",
+      "url": "https://www.linkedin.com/company/zibi/",
+      "location": "Turin, Italy",
+      "stack": ["wordpress", "php", "mysql"]
+    },
+    {
+      "name": "ITIS Pininfarina",
+      "position": "Database Teacher",
+      "startDate": "2010-09-30",
+      "endDate": "2010-11-30",
+      "highlights": [],
+      "summary": "Laboratory teacher for an IFTS course on relational databases.",
+      "url": "http://www.itispininfarina.it/",
+      "location": "Turin, Italy",
+      "stack": ["mysql", "php"]
+    }
+  ]
+}
