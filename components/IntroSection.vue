@@ -24,7 +24,9 @@
           I love coding and building things!
         </p>
 
-        <base-button to="/#contact">Contact Me</base-button>
+        <base-button href="/downloads/CV%20-%20GIulio%20Ganci%20-%202022%20EN.pdf" download>
+          Resume
+        </base-button>
       </div>
 
       <img src="/images/me.png" alt="Giulio Ganci Picture" />
