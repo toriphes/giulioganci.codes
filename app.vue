@@ -4,7 +4,7 @@
     <Html lang="en" />
     <Title>Giulio Ganci Codes</Title>
 
-    <Meta name="description" content="Passionate Fullstack Developer" />
+    <Meta name="description" content="Passionate Fullstack Developer. I love coding and building things!" />
     <Meta name="keywords"
       content="developer, messina, sicilia, italia, javascript, web, mobile, php, laravel, giulio, ganci" />
     <Meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -12,18 +12,18 @@
     <Meta property="og:locale" content="en_US" />
     <Meta property="og:type" content="website" />
     <Meta property="og:title" content="Giulio Ganci Codes" />
-    <Meta property="og:description" content="Passionate Fullstack Developer" />
+    <Meta property="og:description" content="Passionate Fullstack Developer. I love coding and building things!" />
     <Meta property="og:url" content="https://giulioganci.codes" />
     <Meta property="og:site_name" content="Giulio Ganci Codes" />
     <Meta property="og:image" content="/share-image.png" />
     <Meta property="og:image:secure_url" content="/share-image.png" />
-    <Meta property="og:image:width" content="600" />
-    <Meta property="og:image:height" content="600" />
+    <Meta property="og:image:width" content="1600" />
+    <Meta property="og:image:height" content="880" />
     <Meta property="og:image:type" content="image/png" />
 
-    <Meta name="twitter:card" content="summary" />
+    <Meta name="twitter:card" content="summary_large_image" />
     <Meta name="twitter:title" content="Giulio Ganci Codes" />
-    <Meta name="twitter:description" content="Passionate Fullstack Developer" />
+    <Meta name="twitter:description" content="Passionate Fullstack Developer. I love coding and building things!" />
     <Meta name="twitter:image" content="/share-image.png" />
     <Meta name="twitter:site" content="@toriphes" />
     <Meta name="twitter:url" content="https://giulioganci.codes" />
