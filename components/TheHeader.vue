@@ -76,7 +76,7 @@ watch(isMobileMenuOpen, (val) => {
         </div>
         <div class="flex align-center gap-4">
           <theme-toggle />
-          <base-button href="/downloads/CV%20-%20GIulio%20Ganci%20-%202022%20EN.pdf" class="font-bold" size="small"
+          <base-button href="/downloads/CV%20-%20Giulio%20Ganci%20-%202022%20EN.pdf" class="font-bold" size="small"
             download>
 
             <span class="hidden lg:block">

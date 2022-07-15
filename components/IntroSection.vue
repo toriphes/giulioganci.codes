@@ -24,7 +24,7 @@
           I love coding and building things!
         </p>
 
-        <base-button href="/downloads/CV%20-%20GIulio%20Ganci%20-%202022%20EN.pdf" download>
+        <base-button href="/downloads/CV%20-%20Giulio%20Ganci%20-%202022%20EN.pdf" download>
           Resume
         </base-button>
       </div>
