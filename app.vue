@@ -24,7 +24,8 @@
     <Meta name="twitter:card" content="summary_large_image" />
     <Meta name="twitter:title" content="Giulio Ganci Codes" />
     <Meta name="twitter:description" content="Passionate Fullstack Developer. I love coding and building things!" />
-    <Meta name="twitter:image" content="/share-image.png" />
+    <Meta name="twitter:image" content="https://giulioganci.codes/share-image.png" />
+    <Meta name="twitter:creator" content="@toriphes" />
     <Meta name="twitter:site" content="@toriphes" />
     <Meta name="twitter:url" content="https://giulioganci.codes" />
 
