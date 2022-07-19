@@ -34,7 +34,7 @@ const { data: articles } = await useFetch<Post[]>('https://dev.to/api/articles',
       <article v-for="article of articles" :key="article.id" class="group">
         <div class="overflow-hidden rounded-xl shadow-xl">
           <a :href="article.url" class="group" :title="article.title">
-            <img :src="article.cover_image" :alt="article.title"
+            <nuxt-img :src="article.cover_image" loading="lazy" :alt="article.title"
               class="aspect-video block h-auto max-w-full object-cover group-hover:scale-105 group-focus:scale-105 transition-transform ease-linear" />
           </a>
         </div>

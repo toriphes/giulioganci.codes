@@ -29,7 +29,7 @@
         </base-button>
       </div>
 
-      <img src="/images/me.png" alt="Giulio Ganci Picture" />
+      <nuxt-picture class="flex justify-center" src="/images/me.png" alt="Giulio Ganci Picture" />
 
     </div>
   </base-section>

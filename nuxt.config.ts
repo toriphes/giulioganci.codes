@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   typescript: {
     shim: false
   },
-  modules: ['@nuxtjs/tailwindcss', 'unplugin-icons/nuxt', '@nuxt/content', '@nuxtjs/color-mode', '@vueuse/nuxt'],
+  modules: ['@nuxtjs/tailwindcss', 'unplugin-icons/nuxt', '@nuxt/content', '@nuxtjs/color-mode', '@vueuse/nuxt', '@nuxt/image-edge'],
   colorMode: {
     preference: 'system',
     classPrefix: '',
