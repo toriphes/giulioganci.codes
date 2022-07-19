@@ -11,11 +11,11 @@ const selectedTab = ref(tabs[0]);
     subtitle="Being a fullstack developer is hard work. Here is a list of my main skills">
 
     <div class="flex gap-4 mb-8 justify-center">
-      <a v-for="tab of tabs" :key="tab" class="select-none cursor-pointer px-4 py-2 font-medium"
+      <div v-for="tab of tabs" :key="tab" class="select-none cursor-pointer px-4 py-2 font-medium"
         :class="{ 'border-b-2 border-primary text-primary': selectedTab === tab, 'text-black dark:text-white/80': selectedTab !== tab }"
         @click="selectedTab = tab">
         {{ tab }}
-      </a>
+      </div>
     </div>
 
     <div v-for="tab of tabs" :key="tab" :class="{ 'block': selectedTab === tab, 'hidden': selectedTab !== tab }">
