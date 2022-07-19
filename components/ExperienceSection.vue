@@ -31,8 +31,8 @@ const { data } = await useAsyncData('experience', () => queryContent('/experienc
           class="sm:basis-5/12 shadow-2xl p-6 rounded-xl text-base bg-white dark:bg-darkSoft text-gray transition-colors ease-in-out duration-300 group-hover:bg-primary/80 group-hover:text-white">
           <p v-html="item.summary"></p>
           <div class="mt-4 flex gap-2 flex-wrap">
-            <nuxt-img v-for="tech of item.stack" :key="tech" class="h-6" loading="lazy" :src="`/images/${tech}.svg`"
-              :title="`${tech} logo`" />
+            <nuxt-img v-for="tech of item.stack" :key="tech" width="24" height="24" loading="lazy"
+              :src="`/images/${tech}.svg`" :title="`${tech} logo`" />
           </div>
         </div>
       </div>
