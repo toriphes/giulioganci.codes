@@ -9,6 +9,9 @@
       content="developer, messina, sicilia, italia, javascript, web, mobile, php, laravel, giulio, ganci" />
     <Meta name="viewport" content="width=device-width, initial-scale=1" />
     <Meta name="theme-color" content="#00796B" />
+    <Meta name="mobile-web-app-capable" content="yes" />
+    <Meta name="apple-mobile-web-app-title" content="Giulio Ganci Codes" />
+    <Meta name="author" content="Giulio Ganci" />
     <Meta property="og:locale" content="en_US" />
     <Meta property="og:type" content="website" />
     <Meta property="og:title" content="Giulio Ganci Codes" />
@@ -37,6 +40,7 @@
 
     <Link rel="preconnect" href="https://fonts.googleapis.com" />
     <Link rel="preconnect" href="https://fonts.gstatic.com" />
+    <Link rel="dns-prefetch" href="https://fonts.gstatic.com" />
     <Link rel="dns-prefetch" href="//analytics.giulioganci.codes" />
     <Link rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap">
