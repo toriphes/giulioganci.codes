@@ -33,6 +33,37 @@ export default defineNuxtConfig({
   <!-- End Matomo Code -->
           `,
           type: 'text/javascript'
+        },
+        {
+          hid: 'ld-json',
+          children: `{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Giulio Ganci",
+        "url": "https://giulioganci.codes",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://giulioganci.codes/apple-icon-180x180.png",
+            "width": 180,
+            "height": 180
+        }
+    },
+    "url": "https://giulioganci.codes",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://giulioganci.codes/share-image.png",
+        "width": 1600,
+        "height": 880
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://giulioganci.codes"
+    },
+    "description": "Passionate Fullstack Developer. I love coding and building things!"
+}`,
+          type: 'application/ld+json'
         }
       ]
     }
