@@ -1,11 +1,16 @@
-import { defineNuxtConfig } from 'nuxt';
-
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
+// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   typescript: {
     shim: false
   },
-  modules: ['@nuxtjs/tailwindcss', 'unplugin-icons/nuxt', '@nuxt/content', '@nuxtjs/color-mode', '@vueuse/nuxt', '@nuxt/image-edge'],
+  modules: [
+    '@nuxtjs/tailwindcss',
+    'unplugin-icons/nuxt',
+    '@nuxt/content',
+    '@nuxtjs/color-mode',
+    '@vueuse/nuxt',
+    '@nuxt/image-edge'
+  ],
   colorMode: {
     preference: 'system',
     classPrefix: '',
