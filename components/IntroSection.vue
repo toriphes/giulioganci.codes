@@ -24,12 +24,12 @@
           I love coding and building things!
         </p>
 
-        <base-button href="/downloads/CV%20-%20Giulio%20Ganci%20-%202022%20EN.pdf" download>
+        <base-button href="/downloads/CV%20-%20Giulio%20Ganci%20-%202023%20EN.pdf" download>
           Resume
         </base-button>
       </div>
 
-      <img class="flex justify-center" src="/images/me.png" alt="Giulio Ganci Picture" />
+      <nuxt-img class="flex justify-center" format="webp" src="/images/me.png" alt="Giulio Ganci Picture" />
 
     </div>
   </base-section>
